@@ -6,7 +6,7 @@
   "va":{
     "report_server":{
       "enabled": true,
-      "host": "https://dov.waveair.com.br",
+      "host": "dov.waveair.com.br",
       "target": "/dstable",
       "semver": {
         "min": "1.1.0",
